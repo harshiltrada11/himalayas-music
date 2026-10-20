@@ -1,0 +1,14 @@
+{
+  "name": "himalayas-music",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Himalayas — a glass-inspired music discovery and player website",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^39.2.0"
+  }
+}
